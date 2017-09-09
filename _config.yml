@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://sanketh-nm.github.io/photosite/gallery/"  
-  - JOURNAL: "https://sanketh-nm.github.io/photosite/journal/"
+  # - JOURNAL: "https://sanketh-nm.github.io/photosite/journal/"
   - ABOUT: "https://sanketh-nm.github.io/photosite/about/"
   - CONTACT US: "https://sanketh-nm.github.io/photosite/contact/"
 
